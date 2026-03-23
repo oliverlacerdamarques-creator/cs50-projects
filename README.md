@@ -7,7 +7,6 @@ This is my first project for Harvard's CS50x!
 * **Left Mouse Click:** Attack.
 
 ## 📺 Demo
-![Gameplay]
 ![gameplay](https://github.com/user-attachments/assets/3a160d12-62d6-4f3e-a6e7-717bbf533fe6)
 
 ---
