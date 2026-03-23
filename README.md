@@ -11,3 +11,12 @@ This is my first project for Harvard's CS50x!
 
 ---
 *Developed as part of the CS50x 2026 curriculum.*
+
+## Credits & Legal Disclaimer
+
+This project is a non-commercial, fan-made creation developed for educational purposes. 
+
+* **Art & Assets:** All visual assets, characters, and world designs are property of **[Team Cherry](https://www.teamcherry.com.au/)**.
+* **Game:** Inspired by the masterpiece **Hollow Knight**.
+
+Please support the original creators by checking out the official game on Steam or their website.
